@@ -13,17 +13,9 @@ I utilized the following tools and techniques to create the churn prediction das
 
 - **Machine Learning**: Implemented a Random Forest model in Python to predict customer churn based on historical data.
 
-![Screenshot 2025-01-29 163739.png](attachment:acce1175-fe59-425f-a9e0-84dafab312c5:Screenshot_2025-01-29_163739.png)
-
-![Screenshot 2025-01-29 163806.png](attachment:4c521116-e1f8-4ab9-ac9e-c187371f0f70:Screenshot_2025-01-29_163806.png)
-
 - **Data Processing**: Utilized libraries such as Pandas and Scikit-learn to preprocess data and train the model.
 - **Data Visualization**: Designed a Power BI dashboard to present key insights, such as churn likelihood, influential factors, and customer segmentation.
 - **Integration**: Exported model predictions and imported them into Power BI for visualization.
-
-![Screenshot 2025-01-25 124826.png](attachment:c0b18c7f-348d-48ac-9277-aaf769f3dded:Screenshot_2025-01-25_124826.png)
-
-![Screenshot 2025-01-25 124849.png](attachment:40e66734-fdb5-4ba5-b59d-c46b87ba6c93:Screenshot_2025-01-25_124849.png)
 
 Key features of the dashboard include:
 
