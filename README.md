@@ -18,6 +18,8 @@ I utilized the following tools and techniques to create the churn prediction das
 - **Integration**: Exported model predictions and imported them into Power BI for visualization.
 
 Key features of the dashboard include:
+![tyfyuk (2)](https://github.com/user-attachments/assets/dea1c971-6eec-4b36-9155-6d1d1205c22c)
+
 
 - **Churn Probability by Customer Segment**: Identifies at-risk customers by segment and displays their predicted likelihood of churning.
 - **Top Factors Contributing to Churn**: Highlights key drivers influencing churn rates using feature importance from the Random Forest model.
