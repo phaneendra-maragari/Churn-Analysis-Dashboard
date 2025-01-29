@@ -12,14 +12,18 @@ To address this issue, I developed a Power BI dashboard that predicts churn rate
 I utilized the following tools and techniques to create the churn prediction dashboard:
 
 - **Machine Learning**: Implemented a Random Forest model in Python to predict customer churn based on historical data.
+- ![Screenshot 2025-01-29 163739](https://github.com/user-attachments/assets/9a3f1880-321e-4cb0-974b-9bb2d96194ec)
+- ![Screenshot 2025-01-29 163806](https://github.com/user-attachments/assets/c1d8d1f9-56bf-4eb8-9bb3-534586500e21)
 
 - **Data Processing**: Utilized libraries such as Pandas and Scikit-learn to preprocess data and train the model.
 - **Data Visualization**: Designed a Power BI dashboard to present key insights, such as churn likelihood, influential factors, and customer segmentation.
 - **Integration**: Exported model predictions and imported them into Power BI for visualization.
+- ![Screenshot 2025-01-25 124826](https://github.com/user-attachments/assets/d79a2f5a-e40d-4a54-bfb8-03e4a22649f2)
+- ![Screenshot 2025-01-25 124849](https://github.com/user-attachments/assets/a7136339-6d47-4389-b01d-557385842705)
+
+
 
 Key features of the dashboard include:
-![tyfyuk (2)](https://github.com/user-attachments/assets/dea1c971-6eec-4b36-9155-6d1d1205c22c)
-
 
 - **Churn Probability by Customer Segment**: Identifies at-risk customers by segment and displays their predicted likelihood of churning.
 - **Top Factors Contributing to Churn**: Highlights key drivers influencing churn rates using feature importance from the Random Forest model.
